@@ -3,3 +3,4 @@ Good bye!
 line from user 2 
 Line from user1
 some new feature1
+line from user1 - lesson about rebase
